@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9aVSo+W5FZBEFPusuVmYNCIHHSTnKqxoYFHJHvcELGxe3ocKvDjnoOR/BR4prqhEdOFQlnG6DhwKIj1byFqYEA==",
+  "success": true,
+  "projectFilePath": "C:\\WorkItems\\dockerlearn\\AspNetCoreOnDocker\\AspNetCoreOnDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudip\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
